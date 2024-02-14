@@ -6,3 +6,5 @@ I am writting next three lines
 I am writting next three lines
 I am writting next three lines
 I am doing changing to know about git add -p
+I am a Girl 
+i am doing changes
